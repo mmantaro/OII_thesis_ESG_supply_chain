@@ -16,7 +16,7 @@ The code is written in a series of Jupyter Notebooks that can be found in the Co
 - **10_topic_model_tuning.ipynb**: Tunes LDA topic model to identify best number of topics (k)
 - **11_final_topic_model.ipynb**: Builds final LDA topic model and gets topic classification for each paragraph
 - **12_variable_creation.ipynb**: Creates necessary variables and final dataframes for analysis; here, I import other external data (company & industry data from S&P Capital IQ, Eikon Refinitiv, and NSF's Annual Business Survey)
-- **13_descriptive_analyses.ipynb**: Calculate sdescriptive statistics and create visualizations
+- **13_descriptive_analyses.ipynb**: Calculate descriptive statistics and create visualizations
 - **14_stats_kruskal-wallis.ipynb**: Uses Kruskal-Wallis test to check for sub-sector differences in ESG supply chain content
 - **15_stats_regression.ipynb**: Uses fixed effects regression to test hypotheses on public opinion and leadership characteristics
 
